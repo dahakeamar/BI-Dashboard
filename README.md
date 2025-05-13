@@ -45,7 +45,7 @@ This dashboard can be used to identify trends, analyze the impact of key specifi
  
  # Report Snapshot (Power BI DESKTOP)
  
-![Image](https://github.com/user-attachments/assets/16f69498-a91e-41d9-94e5-c9bedf44bf11)
+![Image](https://github.com/user-attachments/assets/0b194e01-9e53-429f-a064-88399c6dc440)
 
 
 
